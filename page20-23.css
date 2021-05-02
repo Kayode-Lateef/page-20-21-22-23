@@ -160,26 +160,34 @@
 
   }
 
+  .unpaid-column-left{
+    padding-left: 25px !important;
+    
+
+  }
+
+  .unpaid-column-right{
+    padding-right: 55px !important;
+
+
+  }
+
   .paid-card-2 {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     background-color: #fff;
     padding: 10px;
     border-radius: 8px;
-    /* margin-top: 0;
-    margin-right: -20px;
-    margin-bottom: 0;
-    margin-left: 3px; */
     margin: 0 -10px;
 
   }
   
 .unpaid-card-2 {
-    color: black;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     background-color: #fff;
     padding: 10px;
-    border-radius: 10px;
-  
+    border-radius: 8px;
+    margin: 0 -10px;
+
   }
   
   .member-row {
